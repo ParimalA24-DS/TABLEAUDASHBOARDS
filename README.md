@@ -40,15 +40,14 @@ This repository contains a series of Tableau dashboards that provide valuable in
 
 ### Road Accidents Dashboard
 
-**Overview:** This dashboard provides insights into road accident data, covering factors like accident locations, causes, time of occurrence, and severity.
+**Overview:** This dashboard provides a detailed analysis of road accident data, including accident locations, causes, and severity.
 
-![Road Accidents Dashboard]()
-
+![Road Accidents Dashboard](https://github.com/ParimalA24-DS/MICROSOFT-EXCEL-DASHBOARDS/blob/main/EXCEL-DASHBOARD-IMAGES/road%20accident41.PNG)
 ### Bank Loans Dashboard
 
-**Overview:** This dashboard analyzes bank loan data, focusing on loan approval rates, demographic factors, loan amounts, and repayment status.
+**Overview:** This dashboard presents an overview of bank loan data, focusing on loan approval rates, amounts, and repayment status.
 
-![Bank Loans Dashboard](
+![Bank Loans Dashboard](https://github.com/ParimalA24-DS/MICROSOFT-EXCEL-DASHBOARDS/blob/main/EXCEL-DASHBOARD-IMAGES/OVERVIEW%20DASHBOARD2BANKLOAN.PNG)
 
 ### More Dashboards
 
@@ -77,3 +76,11 @@ Thank you for visiting this repository. Let's learn and grow together in the exc
 ---
 
 **Happy Visualizing!**
+<p align="center">
+  <a href="https://github.com/ParimalA24-DS">
+    <img src="https://img.shields.io/badge/Microsoft%20Excel-Dashboards-blue" alt="Microsoft Excel Dashboards">
+  </a>
+  <a href="https://www.linkedin.com/in/parimalautade/">
+    <img src="https://img.shields.io/badge/Contact-me-orange" alt="Contact me">
+  </a>
+</p>
