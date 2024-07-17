@@ -1,4 +1,4 @@
-# Tableau Dashboards: Car Sales, Road Accidents, Bank Loans, and More
+# Tableau Dashboards: Car Sales, Road Accidents, Bank Loans,Chocolate sales,HR Anlytics dashboards and More
 
 Welcome to the Tableau Dashboards repository! This self-paced practice project is designed for data analysts and data scientists, providing interactive and insightful dashboards for various real-world datasets, including car sales, road accidents, bank loans, and more. These dashboards are designed to help beginners and professionals alike in visualizing and understanding data effectively.
 
@@ -25,19 +25,30 @@ This repository contains a series of Tableau dashboards that provide valuable in
 
 **Overview:** This dashboard presents a comprehensive analysis of car sales data, including sales trends, popular models, regional performance, and more.
 
-![Car Sales Dashboard](images/car_sales_dashboard.png)
+![Car Sales Dashboard](https://github.com/ParimalA24-DS/TABLEAUDASHBOARDS/blob/main/1.Tableau_DashboardsPR/3.TABLEAUPROJECT/carsalesdashboard.png)
+
+### HR Analytics Dashboard
+
+**Overview:** This dashboard presents a comprehensive analysis of HR data, covering employee performance, attrition rates, and demographic factors.
+
+![HR Analytics Dashboard](https://github.com/ParimalA24-DS/TABLEAUDASHBOARDS/blob/main/1.Tableau_DashboardsPR/2.TABLEAUPROJECT2/HR_TABLEUA_ANALYSIS_DASHBOARD.PNG)
+### Chocolate Sales Analysis Dashboard
+
+**Overview:** This dashboard provides insights into the analysis of chocolate sales data, including sales trends, popular products, and regional performance.
+
+![Chocolate Sales Analysis Dashboard](https://github.com/ParimalA24-DS/TABLEAUDASHBOARDS/blob/main/1.Tableau_DashboardsPR/1.CHOCOLATE%20SALE%20TABLEUAPROJECT1.PNG)
 
 ### Road Accidents Dashboard
 
 **Overview:** This dashboard provides insights into road accident data, covering factors like accident locations, causes, time of occurrence, and severity.
 
-![Road Accidents Dashboard](images/road_accidents_dashboard.png)
+![Road Accidents Dashboard]()
 
 ### Bank Loans Dashboard
 
 **Overview:** This dashboard analyzes bank loan data, focusing on loan approval rates, demographic factors, loan amounts, and repayment status.
 
-![Bank Loans Dashboard](images/bank_loans_dashboard.png)
+![Bank Loans Dashboard](
 
 ### More Dashboards
 
@@ -55,9 +66,9 @@ Feel free to explore, interact with the visualizations, and gain insights from t
 
 Contributions are welcome! If you have any interesting datasets and want to create a Tableau dashboard, please create a pull request or open an issue to discuss your ideas.
 
-## Who Created This
+## Created This By:
 
-This repository is maintained by Parimal Autade. For more details and other interesting projects, visit [Parimal's GitHub profile](https://github.com/parimalautade).
+This repository is maintained by Parimal Autade. For more details and other interesting projects, visit [Parimal's GitHub profile](https://github.com/ParimalA24-DS)
 
 ## Learn and Grow Together
 
